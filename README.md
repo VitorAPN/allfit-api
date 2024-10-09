@@ -25,8 +25,8 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
-   cd nome-do-projeto
+   git clone https://github.com/VitorAPN/allfit-api
+   cd allfit-api
    ```
 
 2. Instale as dependências (caso esteja executando localmente):
